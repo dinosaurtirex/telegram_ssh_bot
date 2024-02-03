@@ -47,6 +47,8 @@ def main() -> int:
             command_result
         )
 
+    print(f"Bot has been started!")
+
     telegram_bot.infinity_polling(timeout=60)
 
     return 1
