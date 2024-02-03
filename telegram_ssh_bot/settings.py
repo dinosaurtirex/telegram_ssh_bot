@@ -1,2 +1,2 @@
-BOT_TOKEN: str = "6839994979:AAFQU3k20QLsmntKndagVgjRV1aCT7NAUB4"
+BOT_TOKEN: str = "" # Provide Your Token
 GLOBAL_DELAY: float = 0.1
